@@ -61,6 +61,8 @@ The European Health Insurance Card (EHIC) credential is a specialised instance o
 
 It does *not* introduce additional attributes or metadata.
 
+*Here we should also add the tables with the exemplary values, because they are in a specific EHIC context (compared to the "basic" attributes)*
+
 
 # 3 Attestation encoding 
 
